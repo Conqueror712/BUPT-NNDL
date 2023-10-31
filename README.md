@@ -1,6 +1,6 @@
 ## 零、快速开始
 
-1. 克隆项目并进入根目录（数据集已包含在内）
+1. 克隆项目并进入根目录
 
 ```
 git clone git@github.com:Conqueror712/Cifar-10-Project.git
