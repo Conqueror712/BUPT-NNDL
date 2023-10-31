@@ -13,7 +13,13 @@ cd Cifar-10-Project
 pip install -r requirements.txt
 ```
 
-3. 运行代码
+3. 数据准备
+
+```
+链接: https://pan.baidu.com/s/1BmDGfAwbaf-p8h1LNSbSlA?pwd=xp5r 提取码: xp5r 复制这段内容后打开百度网盘手机App，操作更方便哦
+```
+
+5. 运行代码
 
 ```
 python main.py
