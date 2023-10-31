@@ -3,8 +3,8 @@
 1. 克隆项目并进入根目录（数据集已包含在内）
 
 ```
-git clone xxx
-cd xxx
+git clone git@github.com:Conqueror712/Cifar-10-Project.git
+cd Cifar-10-Project
 ```
 
 2. 安装所需的第三方库
